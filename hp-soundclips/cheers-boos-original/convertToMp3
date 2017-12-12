@@ -1,0 +1,10 @@
+for d in */ ; do
+    echo "$d"
+    cd "$d"
+    for a in {.,}*; do
+        f="${a[@]/%wav/mp3}"
+
+      f="${a[@]/%wav/mp3}"
+      ffmpeg -i "$a" -ac 2 -codec:a libmp3lame -b:a 48k -ar 16000 -f mp3 ../cheers-boos/"$f"
+    done
+done

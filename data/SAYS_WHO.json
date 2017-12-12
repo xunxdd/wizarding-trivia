@@ -1,0 +1,1084 @@
+[
+  {
+    "who": "harry potter",
+    "file": "deathly-hollow1/accio-dittany.mp3",
+    "movie": "Harry Potter and the Deathly Hallows - Part 1",
+    "choices": [
+      "luna lovegood",
+      "hermione granger",
+      "bellatrix lestrange",
+      "harry potter"
+    ],
+    "category": "Which Spell",
+    "level": "easy"
+  },
+  {
+    "who": "hermione granger",
+    "file": "deathly-hollow1/changes.mp3",
+    "movie": "Harry Potter and the Deathly Hallows - Part 1",
+    "choices": [
+      "hermione granger",
+      "harry potter",
+      "luna lovegood",
+      "bellatrix lestrange"
+    ],
+    "category": "Which Spell",
+    "level": "easy"
+  },
+  {
+    "who": "hermione granger",
+    "file": "deathly-hollow1/crap.mp3",
+    "movie": "Harry Potter and the Deathly Hallows - Part 1",
+    "choices": [
+      "luna lovegood",
+      "hermione granger",
+      "harry potter",
+      "bellatrix lestrange"
+    ],
+    "level": "easy"
+  },
+  {
+    "who": "luna lovegood",
+    "file": "deathly-hollow1/curious.mp3",
+    "movie": "Harry Potter and the Deathly Hallows - Part 1",
+    "choices": [
+      "hermione granger",
+      "bellatrix lestrange",
+      "luna lovegood",
+      "harry potter"
+    ],
+    "level": "easy"
+  },
+  {
+    "who": "bellatrix lestrange",
+    "file": "deathly-hollow1/dare.mp3",
+    "movie": "Harry Potter and the Deathly Hallows - Part 1",
+    "choices": [
+      "harry potter",
+      "luna lovegood",
+      "bellatrix lestrange",
+      "hermione granger"
+    ],
+    "level": "easy"
+  },
+  {
+    "who": "dobby",
+    "file": "deathly-hollow1/dobby.mp3",
+    "movie": "Harry Potter and the Deathly Hallows - Part 1",
+    "choices": [
+      "harry potter",
+      "hermione granger",
+      "dobby",
+      "luna lovegood"
+    ],
+    "level": "easy"
+  },
+  {
+    "who": "ron weasley",
+    "file": "deathly-hollow1/finite-incantatem.mp3",
+    "movie": "Harry Potter and the Deathly Hallows - Part 1",
+    "choices": [
+      "luna lovegood",
+      "harry potter",
+      "ron weasley",
+      "hermione granger"
+    ],
+    "level": "easy"
+  },
+  {
+    "who": "hermione granger",
+    "file": "deathly-hollow1/homenum-revelio.mp3",
+    "movie": "Harry Potter and the Deathly Hallows - Part 1",
+    "choices": [
+      "hermione granger",
+      "harry potter",
+      "bellatrix lestrange",
+      "luna lovegood"
+    ],
+    "level": "easy"
+  },
+  {
+    "who": "harry potter",
+    "file": "deathly-hollow1/lies.mp3",
+    "movie": "Harry Potter and the Deathly Hallows - Part 1",
+    "choices": [
+      "luna lovegood",
+      "hermione granger",
+      "bellatrix lestrange",
+      "harry potter"
+    ],
+    "level": "easy"
+  },
+  {
+    "who": "luna lovegood",
+    "file": "deathly-hollow1/polite.mp3",
+    "movie": "Harry Potter and the Deathly Hallows - Part 1",
+    "choices": [
+      "hermione granger",
+      "luna lovegood",
+      "bellatrix lestrange",
+      "harry potter"
+    ],
+    "level": "easy"
+  },
+  {
+    "who": "lord voldemort",
+    "file": "deathly-hollow1/require.mp3",
+    "movie": "Harry Potter and the Deathly Hallows - Part 1",
+    "choices": [
+      "lord voldemort",
+      "luna lovegood",
+      "hermione granger",
+      "harry potter"
+    ],
+    "level": "easy"
+  },
+  {
+    "who": "ron weasley",
+    "file": "deathly-hollow1/surprise.mp3",
+    "movie": "Harry Potter and the Deathly Hallows - Part 1",
+    "choices": [
+      "luna lovegood",
+      "ron weasley",
+      "hermione granger",
+      "harry potter"
+    ],
+    "level": "easy"
+  },
+  {
+    "who": "hermione granger",
+    "file": "deathly-hollow1/surprise2.mp3",
+    "movie": "Harry Potter and the Deathly Hallows - Part 1",
+    "choices": [
+      "bellatrix lestrange",
+      "hermione granger",
+      "luna lovegood",
+      "harry potter"
+    ],
+    "level": "hard"
+  },
+  {
+    "who": "severus snape",
+    "file": "half-blood-prince/avadakedavra.mp3",
+    "movie": "Harry Potter and the Half-Blood Prince",
+    "choices": [
+      "harry potter",
+      "luna lovegood",
+      "hermione granger",
+      "severus snape"
+    ],
+    "level": "medium"
+  },
+  {
+    "who": "harry potter",
+    "file": "half-blood-prince/brilliant.mp3",
+    "movie": "Harry Potter and the Half-Blood Prince",
+    "choices": [
+      "hermione granger",
+      "bellatrix lestrange",
+      "luna lovegood",
+      "harry potter"
+    ],
+    "level": "medium"
+  },
+  {
+    "who": "severus snape",
+    "file": "half-blood-prince/dare.mp3",
+    "movie": "Harry Potter and the Half-Blood Prince",
+    "choices": [
+      "hermione granger",
+      "harry potter",
+      "severus snape",
+      "luna lovegood"
+    ],
+    "level": "medium"
+  },
+  {
+    "who": "luna lovegood",
+    "file": "half-blood-prince/devilmaycare.mp3",
+    "movie": "Harry Potter and the Half-Blood Prince",
+    "choices": [
+      "luna lovegood",
+      "hermione granger",
+      "bellatrix lestrange",
+      "harry potter"
+    ],
+    "level": "medium"
+  },
+  {
+    "who": "luna lovegood",
+    "file": "half-blood-prince/episkey.mp3",
+    "movie": "Harry Potter and the Half-Blood Prince",
+    "choices": [
+      "bellatrix lestrange",
+      "luna lovegood",
+      "harry potter",
+      "hermione granger"
+    ],
+    "level": "medium"
+  },
+  {
+    "who": "albus dumbledore",
+    "file": "half-blood-prince/fun.mp3",
+    "movie": "Harry Potter and the Half-Blood Prince",
+    "choices": [
+      "albus dumbledore",
+      "hermione granger",
+      "luna lovegood",
+      "harry potter"
+    ],
+    "level": "medium"
+  },
+  {
+    "who": "ron weasley",
+    "file": "half-blood-prince/kill.mp3",
+    "movie": "Harry Potter and the Half-Blood Prince",
+    "choices": [
+      "hermione granger",
+      "ron weasley",
+      "luna lovegood",
+      "harry potter"
+    ],
+    "level": "medium"
+  },
+  {
+    "who": "albus dumbledore",
+    "file": "half-blood-prince/loo.mp3",
+    "movie": "Harry Potter and the Half-Blood Prince",
+    "choices": [
+      "hermione granger",
+      "luna lovegood",
+      "albus dumbledore",
+      "harry potter"
+    ],
+    "level": "medium"
+  },
+  {
+    "who": "horace slughorn",
+    "file": "half-blood-prince/merlinsbeard.mp3",
+    "movie": "Harry Potter and the Half-Blood Prince",
+    "choices": [
+      "horace slughorn",
+      "harry potter",
+      "hermione granger",
+      "luna lovegood"
+    ],
+    "level": "medium"
+  },
+  {
+    "who": "horace slughorn",
+    "file": "half-blood-prince/no.mp3",
+    "movie": "Harry Potter and the Half-Blood Prince",
+    "choices": [
+      "hermione granger",
+      "harry potter",
+      "luna lovegood",
+      "horace slughorn"
+    ],
+    "level": "medium"
+  },
+  {
+    "who": "draco malfoy",
+    "file": "half-blood-prince/pathetic.mp3",
+    "movie": "Harry Potter and the Half-Blood Prince",
+    "choices": [
+      "draco malfoy",
+      "luna lovegood",
+      "hermione granger",
+      "harry potter"
+    ],
+    "level": "medium"
+  },
+  {
+    "who": "luna lovegood",
+    "file": "half-blood-prince/sleepwalk.mp3",
+    "movie": "Harry Potter and the Half-Blood Prince",
+    "choices": [
+      "harry potter",
+      "hermione granger",
+      "bellatrix lestrange",
+      "luna lovegood"
+    ],
+    "level": "medium"
+  },
+  {
+    "who": "rubeus hagrid",
+    "file": "half-blood-prince/spiders.mp3",
+    "movie": "Harry Potter and the Half-Blood Prince",
+    "choices": [
+      "harry potter",
+      "rubeus hagrid",
+      "hermione granger",
+      "luna lovegood"
+    ],
+    "level": "medium"
+  },
+  {
+    "who": "albus dumbledore",
+    "file": "half-blood-prince/sting.mp3",
+    "movie": "Harry Potter and the Half-Blood Prince",
+    "choices": [
+      "harry potter",
+      "albus dumbledore",
+      "luna lovegood",
+      "hermione granger"
+    ],
+    "level": "medium"
+  },
+  {
+    "who": "hermione granger",
+    "file": "half-blood-prince/thick.mp3",
+    "movie": "Harry Potter and the Half-Blood Prince",
+    "choices": [
+      "harry potter",
+      "luna lovegood",
+      "bellatrix lestrange",
+      "hermione granger"
+    ],
+    "level": "medium"
+  },
+  {
+    "who": "lavender brown",
+    "file": "half-blood-prince/wonwon.mp3",
+    "movie": "Harry Potter and the Half-Blood Prince",
+    "choices": [
+      "lavender brown",
+      "harry potter",
+      "hermione granger",
+      "luna lovegood"
+    ],
+    "level": "medium"
+  },
+  {
+    "who": "lavender brown",
+    "file": "half-blood-prince/wonwon2.mp3",
+    "movie": "Harry Potter and the Half-Blood Prince",
+    "choices": [
+      "lavender brown",
+      "luna lovegood",
+      "hermione granger",
+      "harry potter"
+    ],
+    "level": "medium"
+  },
+  {
+    "who": "draco malfoy",
+    "file": "half-blood-prince/wrong.mp3",
+    "movie": "Harry Potter and the Half-Blood Prince",
+    "choices": [
+      "draco malfoy",
+      "harry potter",
+      "luna lovegood",
+      "hermione granger"
+    ],
+    "level": "medium"
+  },
+  {
+    "who": "harry potter",
+    "file": "prisoner-of-azkaban/lumosmaxima.mp3",
+    "movie": "Harry Potter and the Prisoner of Azkaban",
+    "choices": [
+      "harry potter",
+      "luna lovegood",
+      "hermione granger",
+      "bellatrix lestrange"
+    ],
+    "level": "medium"
+  },
+  {
+    "who": "harry potter",
+    "file": "prisoner-of-azkaban/mischief.mp3",
+    "movie": "Harry Potter and the Prisoner of Azkaban",
+    "choices": [
+      "bellatrix lestrange",
+      "luna lovegood",
+      "hermione granger",
+      "harry potter"
+    ],
+    "level": "medium"
+  },
+  {
+    "who": "harry potter",
+    "file": "prisoner-of-azkaban/nogood.mp3",
+    "movie": "Harry Potter and the Prisoner of Azkaban",
+    "choices": [
+      "bellatrix lestrange",
+      "harry potter",
+      "luna lovegood",
+      "hermione granger"
+    ],
+    "level": "medium"
+  },
+  {
+    "who": "harry potter",
+    "file": "socererers-stone/accepted.mp3",
+    "movie": "Harry Potter and the Sorcerer's Stone",
+    "choices": [
+      "hermione granger",
+      "harry potter",
+      "luna lovegood",
+      "bellatrix lestrange"
+    ],
+    "level": "medium"
+  },
+  {
+    "who": "hermione granger",
+    "file": "socererers-stone/dirt.mp3",
+    "movie": "Harry Potter and the Sorcerer's Stone",
+    "choices": [
+      "harry potter",
+      "bellatrix lestrange",
+      "luna lovegood",
+      "hermione granger"
+    ],
+    "level": "medium"
+  },
+  {
+    "who": "rubeus hagrid",
+    "file": "socererers-stone/insult.mp3",
+    "movie": "Harry Potter and the Sorcerer's Stone",
+    "choices": [
+      "hermione granger",
+      "harry potter",
+      "rubeus hagrid",
+      "luna lovegood"
+    ],
+    "level": "medium"
+  },
+  {
+    "who": "albus dumbledore",
+    "file": "socererers-stone/luck.mp3",
+    "movie": "Harry Potter and the Sorcerer's Stone",
+    "choices": [
+      "luna lovegood",
+      "albus dumbledore",
+      "harry potter",
+      "hermione granger"
+    ],
+    "level": "medium"
+  },
+  {
+    "who": "uncle vernon",
+    "file": "socererers-stone/nosuchthing.mp3",
+    "movie": "Harry Potter and the Sorcerer's Stone",
+    "choices": [
+      "luna lovegood",
+      "harry potter",
+      "hermione granger",
+      "uncle vernon"
+    ],
+    "level": "medium"
+  },
+  {
+    "who": "uncle vernon",
+    "file": "socererers-stone/warning.mp3",
+    "movie": "Harry Potter and the Sorcerer's Stone",
+    "choices": [
+      "luna lovegood",
+      "hermione granger",
+      "uncle vernon",
+      "harry potter"
+    ],
+    "level": "medium"
+  },
+  {
+    "who": "ron weasley",
+    "file": "socererers-stone/wicked.mp3",
+    "movie": "Harry Potter and the Sorcerer's Stone",
+    "choices": [
+      "hermione granger",
+      "luna lovegood",
+      "ron weasley",
+      "harry potter"
+    ],
+    "level": "hard"
+  },
+  {
+    "who": "lord voldemort",
+    "file": "goblet-of-fire/the-boy-who-lived.mp3",
+    "movie": "Harry Potter and the Goblet of Fire",
+    "choices": [
+      "luna lovegood",
+      "harry potter",
+      "lord voldemort",
+      "hermione granger"
+    ],
+    "level": "hard"
+  },
+  {
+    "who": "albus dumbledore",
+    "file": "goblet-of-fire/dark-and-difficult-times.mp3",
+    "movie": "Harry Potter and the Goblet of Fire",
+    "choices": [
+      "harry potter",
+      "hermione granger",
+      "luna lovegood",
+      "albus dumbledore"
+    ],
+    "level": "hard"
+  },
+  {
+    "who": "lord voldemort",
+    "file": "goblet-of-fire/im-going-kill-you.mp3",
+    "movie": "Harry Potter and the Goblet of Fire",
+    "choices": [
+      "harry potter",
+      "hermione granger",
+      "lord voldemort",
+      "luna lovegood"
+    ],
+    "level": "hard"
+  },
+  {
+    "who": "profession moody",
+    "file": "goblet-of-fire/the-killing-curse.mp3",
+    "movie": "Harry Potter and the Goblet of Fire",
+    "choices": [
+      "hermione granger",
+      "profession moody",
+      "harry potter",
+      "luna lovegood"
+    ],
+    "level": "hard"
+  },
+  {
+    "who": "sirius black",
+    "file": "goblet-of-fire/no-friend-to-you.mp3",
+    "movie": "Harry Potter and the Goblet of Fire",
+    "choices": [
+      "hermione granger",
+      "sirius black",
+      "luna lovegood",
+      "harry potter"
+    ],
+    "level": "hard"
+  },
+  {
+    "who": "sirius black",
+    "file": "goblet-of-fire/he-was-a-death-eater.mp3",
+    "movie": "Harry Potter and the Goblet of Fire",
+    "choices": [
+      "hermione granger",
+      "harry potter",
+      "sirius black",
+      "luna lovegood"
+    ],
+    "level": "hard"
+  },
+  {
+    "who": "lucius malfoy",
+    "file": "goblet-of-fire/first-to-know.mp3",
+    "movie": "Harry Potter and the Goblet of Fire",
+    "choices": [
+      "lucius malfoy",
+      "hermione granger",
+      "harry potter",
+      "luna lovegood"
+    ],
+    "level": "hard"
+  },
+  {
+    "who": "profession moody",
+    "file": "goblet-of-fire/sing-you-the-time.mp3",
+    "movie": "Harry Potter and the Goblet of Fire",
+    "choices": [
+      "hermione granger",
+      "profession moody",
+      "luna lovegood",
+      "harry potter"
+    ],
+    "level": "hard"
+  },
+  {
+    "who": "profession moody",
+    "file": "goblet-of-fire/summer-internship.mp3",
+    "movie": "Harry Potter and the Goblet of Fire",
+    "choices": [
+      "profession moody",
+      "harry potter",
+      "hermione granger",
+      "luna lovegood"
+    ],
+    "level": "hard"
+  },
+  {
+    "who": "professor moody",
+    "file": "goblet-of-fire/stories-about-your-father.mp3",
+    "movie": "Harry Potter and the Goblet of Fire",
+    "choices": [
+      "professor moody",
+      "luna lovegood",
+      "harry potter",
+      "hermione granger"
+    ],
+    "level": "hard"
+  },
+  {
+    "who": "neville longbottom",
+    "file": "goblet-of-fire/ive-killed-harry-potter.mp3",
+    "movie": "Harry Potter and the Goblet of Fire",
+    "choices": [
+      "hermione granger",
+      "harry potter",
+      "luna lovegood",
+      "neville longbottom"
+    ],
+    "level": "hard"
+  },
+  {
+    "who": "lord voldemort",
+    "file": "goblet-of-fire/see-the-light-leave-your-eyes.mp3",
+    "movie": "Harry Potter and the Goblet of Fire",
+    "choices": [
+      "harry potter",
+      "luna lovegood",
+      "lord voldemort",
+      "hermione granger"
+    ],
+    "level": "hard"
+  },
+  {
+    "who": "lord voldemort",
+    "file": "goblet-of-fire/mine-to-finish.mp3",
+    "movie": "Harry Potter and the Goblet of Fire",
+    "choices": [
+      "hermione granger",
+      "harry potter",
+      "lord voldemort",
+      "luna lovegood"
+    ],
+    "level": "hard"
+  },
+  {
+    "who": "albus dumbledore",
+    "file": "goblet-of-fire/its-maddening.mp3",
+    "movie": "Harry Potter and the Goblet of Fire",
+    "choices": [
+      "hermione granger",
+      "albus dumbledore",
+      "harry potter",
+      "luna lovegood"
+    ],
+    "level": "hard"
+  },
+  {
+    "who": "harry potter",
+    "file": "goblet-of-fire/i-love-magic.mp3",
+    "movie": "Harry Potter and the Goblet of Fire",
+    "choices": [
+      "harry potter",
+      "hermione granger",
+      "luna lovegood",
+      "bellatrix lestrange"
+    ],
+    "level": "hard"
+  },
+  {
+    "who": "bellatrix",
+    "file": "order-of-phoenix/filthy-half-blood.mp3",
+    "movie": "Harry Potter and the Order of the Phoenix",
+    "choices": [
+      "hermione granger",
+      "luna lovegood",
+      "bellatrix",
+      "harry potter"
+    ],
+    "level": "hard"
+  },
+  {
+    "who": "harry potter",
+    "file": "order-of-phoenix/theres-a-storm-coming.mp3",
+    "movie": "Harry Potter and the Order of the Phoenix",
+    "choices": [
+      "luna lovegood",
+      "harry potter",
+      "bellatrix lestrange",
+      "hermione granger"
+    ],
+    "level": "hard"
+  },
+  {
+    "who": "harry potter",
+    "file": "order-of-phoenix/youre-a-fool.mp3",
+    "movie": "Harry Potter and the Order of the Phoenix",
+    "choices": [
+      "bellatrix lestrange",
+      "harry potter",
+      "luna lovegood",
+      "hermione granger"
+    ],
+    "level": "hard"
+  },
+  {
+    "who": "dolores umbridge",
+    "file": "order-of-phoenix/i-will-have-order.mp3",
+    "movie": "Harry Potter and the Order of the Phoenix",
+    "choices": [
+      "harry potter",
+      "hermione granger",
+      "dolores umbridge",
+      "luna lovegood"
+    ],
+    "level": "hard"
+  },
+  {
+    "who": "severus snape",
+    "file": "order-of-phoenix/concentrate.mp3",
+    "movie": "Harry Potter and the Order of the Phoenix",
+    "choices": [
+      "harry potter",
+      "severus snape",
+      "hermione granger",
+      "luna lovegood"
+    ],
+    "level": "hard"
+  },
+  {
+    "who": "severus snape",
+    "file": "order-of-phoenix/grow-up-to-be-a-felon.mp3",
+    "movie": "Harry Potter and the Order of the Phoenix",
+    "choices": [
+      "hermione granger",
+      "luna lovegood",
+      "harry potter",
+      "severus snape"
+    ],
+    "level": "hard"
+  },
+  {
+    "who": "remus lupin",
+    "file": "order-of-phoenix/terrible-things.mp3",
+    "movie": "Harry Potter and the Order of the Phoenix",
+    "choices": [
+      "hermione granger",
+      "harry potter",
+      "luna lovegood",
+      "remus lupin"
+    ],
+    "level": "hard"
+  },
+  {
+    "who": "professor moody",
+    "file": "order-of-phoenix/stay-in-formation.mp3",
+    "movie": "Harry Potter and the Order of the Phoenix",
+    "choices": [
+      "professor moody",
+      "luna lovegood",
+      "harry potter",
+      "hermione granger"
+    ],
+    "level": "hard"
+  },
+  {
+    "who": "luna lovegood",
+    "file": "order-of-phoenix/not-as-much-as-a-threat.mp3",
+    "movie": "Harry Potter and the Order of the Phoenix",
+    "choices": [
+      "bellatrix lestrange",
+      "harry potter",
+      "luna lovegood",
+      "hermione granger"
+    ],
+    "level": "hard"
+  },
+  {
+    "who": "harry potter",
+    "file": "order-of-phoenix/youre-the-weak-one.mp3",
+    "movie": "Harry Potter and the Order of the Phoenix",
+    "choices": [
+      "luna lovegood",
+      "bellatrix lestrange",
+      "hermione granger",
+      "harry potter"
+    ],
+    "level": "hard"
+  },
+  {
+    "who": "harry potter",
+    "file": "order-of-phoenix/i-want-to-fight.mp3",
+    "movie": "Harry Potter and the Order of the Phoenix",
+    "choices": [
+      "bellatrix lestrange",
+      "hermione granger",
+      "luna lovegood",
+      "harry potter"
+    ],
+    "level": "hard"
+  },
+  {
+    "who": "albus dumbledore",
+    "file": "order-of-phoenix/incontrovertible.mp3",
+    "movie": "Harry Potter and the Order of the Phoenix",
+    "choices": [
+      "luna lovegood",
+      "hermione granger",
+      "harry potter",
+      "albus dumbledore"
+    ],
+    "level": "hard"
+  },
+  {
+    "who": "bellatrix",
+    "file": "order-of-phoenix/i-killed-sirius.mp3",
+    "movie": "Harry Potter and the Order of the Phoenix",
+    "choices": [
+      "luna lovegood",
+      "bellatrix",
+      "harry potter",
+      "hermione granger"
+    ],
+    "level": "hard"
+  },
+  {
+    "file": "sorcerer-stone/urscary.mp3",
+    "who": "ron weasley",
+    "movie": "Harry Potter and the Sorcerer's Stone",
+    "choices": [
+      "hermione granger",
+      "ron weasley",
+      "harry potter",
+      "luna lovegood"
+    ],
+    "level": "hard"
+  },
+  {
+    "file": "sorcerer-stone/onlypower.mp3",
+    "who": "lord voldemort",
+    "movie": "Harry Potter and the Sorcerer's Stone",
+    "choices": [
+      "harry potter",
+      "lord voldemort",
+      "hermione granger",
+      "luna lovegood"
+    ],
+    "level": "hard"
+  },
+  {
+    "file": "sorcerer-stone/happyxmas2.mp3",
+    "who": "ron weasley",
+    "movie": "Harry Potter and the Sorcerer's Stone",
+    "choices": [
+      "ron weasley",
+      "harry potter",
+      "hermione granger",
+      "luna lovegood"
+    ],
+    "level": "hard"
+  },
+  {
+    "file": "sorcerer-stone/ivegotpresents.mp3",
+    "who": "harry potter",
+    "movie": "Harry Potter and the Sorcerer's Stone",
+    "choices": [
+      "luna lovegood",
+      "harry potter",
+      "bellatrix lestrange",
+      "hermione granger"
+    ],
+    "level": "hard"
+  },
+  {
+    "file": "sorcerer-stone/badinfluence.mp3",
+    "who": "ron weasley",
+    "movie": "Harry Potter and the Sorcerer's Stone",
+    "choices": [
+      "ron weasley",
+      "hermione granger",
+      "harry potter",
+      "luna lovegood"
+    ],
+    "level": "hard"
+  },
+  {
+    "file": "sorcerer-stone/expelled.mp3",
+    "who": "hermione granger",
+    "movie": "Harry Potter and the Sorcerer's Stone",
+    "choices": [
+      "bellatrix lestrange",
+      "luna lovegood",
+      "harry potter",
+      "hermione granger"
+    ],
+    "level": "hard"
+  },
+  {
+    "file": "sorcerer-stone/dontyouread.mp3",
+    "who": "hermione granger",
+    "movie": "Harry Potter and the Sorcerer's Stone",
+    "choices": [
+      "harry potter",
+      "hermione granger",
+      "luna lovegood",
+      "bellatrix lestrange"
+    ],
+    "level": "hard"
+  },
+  {
+    "file": "sorcerer-stone/dwellondreams.mp3",
+    "who": "albus dumbledore",
+    "movie": "Harry Potter and the Sorcerer's Stone",
+    "choices": [
+      "albus dumbledore",
+      "luna lovegood",
+      "hermione granger",
+      "harry potter"
+    ],
+    "level": "hard"
+  },
+  {
+    "file": "sorcerer-stone/notpanic.mp3",
+    "who": "albus dumbledore",
+    "movie": "Harry Potter and the Sorcerer's Stone",
+    "choices": [
+      "albus dumbledore",
+      "luna lovegood",
+      "hermione granger",
+      "harry potter"
+    ],
+    "level": "hard"
+  },
+  {
+    "file": "sorcerer-stone/standup2friends.mp3",
+    "who": "albus dumbledore",
+    "movie": "Harry Potter and the Sorcerer's Stone",
+    "choices": [
+      "hermione granger",
+      "luna lovegood",
+      "albus dumbledore",
+      "harry potter"
+    ],
+    "level": "hard"
+  },
+  {
+    "file": "sorcerer-stone/priorities.mp3",
+    "who": "ron weasley",
+    "movie": "Harry Potter and the Sorcerer's Stone",
+    "choices": [
+      "luna lovegood",
+      "hermione granger",
+      "ron weasley",
+      "harry potter"
+    ],
+    "level": "hard"
+  },
+  {
+    "file": "sorcerer-stone/wrongsort.mp3",
+    "who": "tom felton",
+    "movie": "Harry Potter and the Sorcerer's Stone",
+    "choices": [
+      "harry potter",
+      "hermione granger",
+      "tom felton",
+      "luna lovegood"
+    ],
+    "level": "hard"
+  },
+  {
+    "file": "sorcerer-stone/welcometogryffindor.mp3",
+    "who": "john cleese",
+    "movie": "Harry Potter and the Sorcerer's Stone",
+    "choices": [
+      "john cleese",
+      "harry potter",
+      "luna lovegood",
+      "hermione granger"
+    ],
+    "level": "hard"
+  },
+  {
+    "file": "sorcerer-stone/mental.mp3",
+    "who": "ron weasley",
+    "movie": "Harry Potter and the Sorcerer's Stone",
+    "choices": [
+      "ron weasley",
+      "luna lovegood",
+      "hermione granger",
+      "harry potter"
+    ],
+    "level": "hard"
+  },
+  {
+    "file": "sorcerer-stone/nowandmp3ing.mp3",
+    "who": "severus snape",
+    "movie": "Harry Potter and the Sorcerer's Stone",
+    "choices": [
+      "severus snape",
+      "luna lovegood",
+      "harry potter",
+      "hermione granger"
+    ],
+    "level": "hard"
+  },
+  {
+    "file": "sorcerer-stone/fame.mp3",
+    "who": "severus snape",
+    "movie": "Harry Potter and the Sorcerer's Stone",
+    "choices": [
+      "luna lovegood",
+      "hermione granger",
+      "severus snape",
+      "harry potter"
+    ],
+    "level": "hard"
+  },
+  {
+    "file": "sorcerer-stone/wandchooses.mp3",
+    "who": "john hurt",
+    "movie": "Harry Potter and the Sorcerer's Stone",
+    "choices": [
+      "john hurt",
+      "luna lovegood",
+      "harry potter",
+      "hermione granger"
+    ],
+    "level": "hard"
+  },
+  {
+    "file": "sorcerer-stone/youreawizard.mp3",
+    "who": "rubeus hagrid",
+    "movie": "Harry Potter and the Sorcerer's Stone",
+    "choices": [
+      "hermione granger",
+      "luna lovegood",
+      "harry potter",
+      "rubeus hagrid"
+    ],
+    "level": "hard"
+  },
+  {
+    "file": "chamber_of_secrets/whyme.wav",
+    "who": "neville longbottom",
+    "movie": "Harry Potter and the Chamber of Secrets",
+    "choices": [
+      "hermione granger",
+      "luna lovegood",
+      "harry potter",
+      "neville longbottom"
+    ],
+    "level": "hard"
+  },
+  {
+    "file": "chamber_of_secrets/fearofaname.wav",
+    "who": "hermione granger",
+    "movie": "Harry Potter and the Chamber of Secrets",
+    "choices": [
+      "luna lovegood",
+      "hermione granger",
+      "harry potter",
+      "bellatrix lestrange"
+    ],
+    "level": "hard"
+  },
+  {
+    "file": "chamber_of_secrets/diagonalley.wav",
+    "who": "ron weasley",
+    "movie": "Harry Potter and the Chamber of Secrets",
+    "choices": [
+      "ron weasley",
+      "harry potter",
+      "luna lovegood",
+      "hermione granger"
+    ],
+    "level": "hard"
+  }
+]

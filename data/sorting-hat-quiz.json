@@ -1,0 +1,131 @@
+[{
+    "question": "What would your family say is your worst trait?",
+    "answer": "",
+    "choices": [
+      {
+        "text": "Reckless",
+        "point": "Gryffindor",
+        "id": 1
+      },
+      {
+        "text": "A bit of a know-it-all",
+        "point": "Ravenclaw",
+        "id": 2
+      },
+      {
+        "text": "There is no bad traits",
+        "point": "Slytherin",
+        "id": 3
+      },
+      {
+        "text": "Too nice for your own good",
+        "point": "Hufflepuff",
+        "id": 4
+      }
+    ]
+  },
+  {
+    "question": "Which of these traits best describes you?",
+    "answer": "",
+    "choices": [
+      {
+        "text": "Loyal",
+        "point": "Hufflepuff",
+        "id": 1
+      },
+      {
+        "text": "Cunning",
+        "point": "Slytherin",
+        "id": 2
+      },
+      {
+        "text": "Brave",
+        "point": "Gryffindor",
+        "id": 3
+      },
+      {
+        "text": "Clever",
+        "point": "Ravenclaw",
+        "id": 4
+      }
+    ]
+  },
+  {
+    "question": "Your friend has a problem – they're being picked on! What do you do?",
+    "answer": "",
+    "choices": [
+      {
+        "text": "Rush in without thinking and defend them!",
+        "point": "Gryffindor",
+        "id": 1
+      },
+      {
+        "text": "Quickly formulate a brilliant plan to help them",
+        "point": "Ravenclaw",
+        "id": 2
+      },
+      {
+        "text": "Consider carefully",
+        "point": "Slytherin",
+        "id": 3
+      },
+      {
+        "text": "Run and get a teacher",
+        "point": "Hufflepuff",
+        "id": 4
+      }
+    ]
+  },
+  {
+    "question": "Which of these would be the best pet EVER?",
+    "answer": "",
+    "choices": [
+      {
+        "text": "An owl or a phoenix",
+        "point": "Ravenclaw",
+        "id": 1
+      },
+      {
+        "text": "A hippogriff",
+        "point": "Gryffindor",
+        "id": 2
+      },
+      {
+        "text": "something loyal and kind like a dog",
+        "point": "Hufflepuff",
+        "id": 3
+      },
+      {
+        "text": "A snake or a lizard",
+        "point": "Slytherin",
+        "id": 4
+      }
+    ]
+  },
+  {
+    "question": "If you could have any superpower, which would you have?",
+    "answer": "",
+    "choices": [
+      {
+        "text": "Invisibility",
+        "point": "Hufflepuff",
+        "id": 1
+      },
+      {
+        "text": "The power of foresight",
+        "point": "Ravenclaw",
+        "id": 2
+      },
+      {
+        "text": "Super strength or invincibility",
+        "point": "Gryffindor",
+        "id": 3
+      },
+      {
+        "text": "Mind control",
+        "point": "Slytherin",
+        "id": 4
+      }
+    ]
+  }
+]

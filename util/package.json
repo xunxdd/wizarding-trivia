@@ -1,0 +1,22 @@
+{
+  "name": "harry_potter_quiz",
+  "version": "1.0.0",
+  "description": "Are you are a true harry potter fan",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "alexa": {
+    "applicationId": ""
+  },
+  "dependencies": {
+    "alexa-app": "^2.1.0",
+    "chai": "^4.0.2",
+    "chai-spies": "^0.7.1",
+    "lodash": "^4.16.1",
+    "mocha": "^3.4.2",
+    "proxyquire": "^1.8.0"
+  }
+}

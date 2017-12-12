@@ -1,0 +1,698 @@
+[
+  {
+    "text": "Which spell can Summon an object?",
+    "answer": "Accio",
+    "choices": [
+      "Silencio",
+      "Bombarda",
+      "Arresto Momentum",
+      "Accio"
+    ],
+    "level": "easy",
+    "type": "Charm"
+  },
+  {
+    "text": "Which spell can Shoot water from wand?",
+    "answer": "Aguamenti",
+    "choices": [
+      "Descendo",
+      "Aguamenti",
+      "Ascendio",
+      "Homenum Revelio"
+    ],
+    "level": "medium",
+    "type": "Charm"
+  },
+  {
+    "text": "Which spell can Open locked objects?",
+    "answer": "Alohomora",
+    "choices": [
+      "Expelliarmus",
+      "Incendio",
+      "Glisseo",
+      "Alohomora"
+    ],
+    "level": "easy",
+    "type": "Charm"
+  },
+  {
+    "text": "Which spell can Be Used to confuse opponent?",
+    "answer": "Confundus",
+    "choices": [
+      "Piertotum Locomotor",
+      "Episkey",
+      "Confundus",
+      "Protego"
+    ],
+    "level": "medium",
+    "type": "Charm"
+  },
+  {
+    "text": "Which spell can Enlarge an item?",
+    "answer": "Engorgio",
+    "choices": [
+      "Engorgio",
+      "Glisseo",
+      "Descendo",
+      "Aguamenti"
+    ],
+    "level": "medium",
+    "type": "Charm"
+  },
+  {
+    "text": "Which spell can Create a Patronus – A Defensive Guardian?",
+    "answer": "Expecto Patronum",
+    "choices": [
+      "Ennervate",
+      "Langlock",
+      "Waddiwasi",
+      "Expecto Patronum"
+    ],
+    "level": "hard",
+    "type": "Charm"
+  },
+  {
+    "text": "Which spell can Disarm your opponent?",
+    "answer": "Expelliarmus",
+    "choices": [
+      "Expelliarmus",
+      "Dissendium",
+      "Priori Incantatem",
+      "Homenum Revelio"
+    ],
+    "level": "medium",
+    "type": "Charm"
+  },
+  {
+    "text": "Which spell can Slow an advancing object?",
+    "answer": "Impedimenta",
+    "choices": [
+      "Furnunculus",
+      "Impedimenta",
+      "Point Me",
+      "Incendio"
+    ],
+    "level": "medium",
+    "type": "Charm"
+  },
+  {
+    "text": "Which spell can Erase memories?",
+    "answer": "Obliviate",
+    "choices": [
+      "Obliviate",
+      "Ascendio",
+      "Alohomora",
+      "Diffindo"
+    ],
+    "level": "medium",
+    "type": "Charm"
+  },
+  {
+    "text": "Which spell can Make Wand act like a compass?",
+    "answer": "Point Me",
+    "choices": [
+      "Flagrante",
+      "Expelliarmus",
+      "Descendo",
+      "Point Me"
+    ],
+    "level": "medium",
+    "type": "Charm"
+  },
+  {
+    "text": "Which spell can Cause spells to reflect back to the sender.?",
+    "answer": "Protego",
+    "choices": [
+      "Locomotor Mortis",
+      "Protego",
+      "Priori Incantatem",
+      "Anapneo"
+    ],
+    "level": "easy",
+    "type": "Charm"
+  },
+  {
+    "text": "Which spell can Be used as A Cleaning Charm?",
+    "answer": "Scourgify",
+    "choices": [
+      "Waddiwasi",
+      "Incendio",
+      "Scourgify",
+      "Ennervate"
+    ],
+    "level": "medium",
+    "type": "Charm"
+  },
+  {
+    "text": "Which spell can Make on object fly?",
+    "answer": "Wingardium Leviosa",
+    "choices": [
+      "Bombarda",
+      "Revelio",
+      "Obscuro",
+      "Wingardium Leviosa"
+    ],
+    "level": "easy",
+    "type": "Charm"
+  },
+  {
+    "text": "Which spell can Murder opponent?",
+    "answer": "Avada Kedavra",
+    "choices": [
+      "Furnunculus",
+      "Alohomora",
+      "Avada Kedavra",
+      "Wingardium Leviosa"
+    ],
+    "level": "easy",
+    "type": "Curse"
+  },
+  {
+    "text": "Which spell can Make a person babble?",
+    "answer": "Babbling Curse",
+    "choices": [
+      "Babbling Curse",
+      "Reparo",
+      "Point Me",
+      "Silencio"
+    ],
+    "level": "easy",
+    "type": "Curse"
+  },
+  {
+    "text": "Which spell can Explode Flames on target?",
+    "answer": "Confringo",
+    "choices": [
+      "Confringo",
+      "Episkey",
+      "Piertotum Locomotor",
+      "Langlock"
+    ],
+    "level": "medium",
+    "type": "Curse"
+  },
+  {
+    "text": "Which spell can Torture opponent?",
+    "answer": "Crucio",
+    "choices": [
+      "Avis",
+      "Lumos Maxima",
+      "Crucio",
+      "Episkey"
+    ],
+    "level": "easy",
+    "type": "Curse"
+  },
+  {
+    "text": "Which spell can Multiply and burn objects upon touch?",
+    "answer": "Flagrante",
+    "choices": [
+      "Flagrante",
+      "Obliviate",
+      "Anapneo",
+      "Avada Kedavra"
+    ],
+    "level": "hard",
+    "type": "Curse"
+  },
+  {
+    "text": "Which spell can Produce boils on opponent?",
+    "answer": "Furnunculus",
+    "choices": [
+      "Furnunculus",
+      "Priori Incantatem",
+      "Arania Exumai",
+      "Ascendio"
+    ],
+    "level": "medium",
+    "type": "Curse"
+  },
+  {
+    "text": "Which spell can Control a person?",
+    "answer": "Imperio",
+    "choices": [
+      "Oculus Reparo",
+      "Imperio",
+      "Arania Exumai",
+      "Aparecium"
+    ],
+    "level": "medium",
+    "type": "Curse"
+  },
+  {
+    "text": "Which spell can Lock opponents legs?",
+    "answer": "Locomotor Mortis",
+    "choices": [
+      "Incendio",
+      "Arresto Momentum",
+      "Scourgify",
+      "Locomotor Mortis"
+    ],
+    "level": "medium",
+    "type": "Curse"
+  },
+  {
+    "text": "Which spell can Clear the target’s airway.?",
+    "answer": "Anapneo",
+    "choices": [
+      "Finite Incantatum",
+      "Anapneo",
+      "Priori Incantatem",
+      "Reducto"
+    ],
+    "level": "hard",
+    "type": "Spell"
+  },
+  {
+    "text": "Which spell can Reveal invisible ink?",
+    "answer": "Aparecium",
+    "choices": [
+      "Aparecium",
+      "Avis",
+      "Reducto",
+      "Descendo"
+    ],
+    "level": "hard",
+    "type": "Spell"
+  },
+  {
+    "text": "Which spell can Blast away Spiders?",
+    "answer": "Arania Exumai",
+    "choices": [
+      "Avis",
+      "Aparecium",
+      "Lumos",
+      "Arania Exumai"
+    ],
+    "level": "hard",
+    "type": "Spell"
+  },
+  {
+    "text": "Which spell can Slow down objects?",
+    "answer": "Arresto Momentum",
+    "choices": [
+      "Wingardium Leviosa",
+      "Aparecium",
+      "Confundus",
+      "Arresto Momentum"
+    ],
+    "level": "medium",
+    "type": "Spell"
+  },
+  {
+    "text": "Which spell can Move an object upward?",
+    "answer": "Ascendio",
+    "choices": [
+      "Reducto",
+      "Ascendio",
+      "Orchideous",
+      "Revelio"
+    ],
+    "level": "medium",
+    "type": "Spell"
+  },
+  {
+    "text": "Which spell can Launche birds from your wand?",
+    "answer": "Avis",
+    "choices": [
+      "Serpensortia",
+      "Bombarda",
+      "Avis",
+      "Glisseo"
+    ],
+    "level": "hard",
+    "type": "Spell"
+  },
+  {
+    "text": "Which spell can Cause explosions?",
+    "answer": "Bombarda",
+    "choices": [
+      "Lumos Maxima",
+      "Bombarda",
+      "Confringo",
+      "Finite Incantatum"
+    ],
+    "level": "easy",
+    "type": "Spell"
+  },
+  {
+    "text": "Which spell can Move an object downwards?",
+    "answer": "Descendo",
+    "choices": [
+      "Engorgio",
+      "Bombarda",
+      "Anapneo",
+      "Descendo"
+    ],
+    "level": "medium",
+    "type": "Spell"
+  },
+  {
+    "text": "Which spell can Split seams?",
+    "answer": "Diffindo",
+    "choices": [
+      "Ennervate",
+      "Bombarda",
+      "Engorgio",
+      "Diffindo"
+    ],
+    "level": "easy",
+    "type": "Spell"
+  },
+  {
+    "text": "Which spell can Open passageways?",
+    "answer": "Dissendium",
+    "choices": [
+      "Dissendium",
+      "Levicorpus",
+      "Confringo",
+      "Anapneo"
+    ],
+    "level": "hard",
+    "type": "Spell"
+  },
+  {
+    "text": "Which spell can Counter Stupefy?",
+    "answer": "Ennervate",
+    "choices": [
+      "Bombarda",
+      "Stupefy",
+      "Ennervate",
+      "Expecto Patronum"
+    ],
+    "level": "hard",
+    "type": "Spell"
+  },
+  {
+    "text": "Which spell can Heal minor injuries?",
+    "answer": "Episkey",
+    "choices": [
+      "Silencio",
+      "Episkey",
+      "Ennervate",
+      "Lumos Maxima"
+    ],
+    "level": "easy",
+    "type": "Spell"
+  },
+  {
+    "text": "Which spell can Stop any current spells?",
+    "answer": "Finite Incantatum",
+    "choices": [
+      "Levicorpus",
+      "Incendio",
+      "Finite Incantatum",
+      "Homenum Revelio"
+    ],
+    "level": "hard",
+    "type": "Spell"
+  },
+  {
+    "text": "Which spell can Turn stairs into ramps?",
+    "answer": "Glisseo",
+    "choices": [
+      "Serpensortia",
+      "Priori Incantatem",
+      "Glisseo",
+      "Langlock"
+    ],
+    "level": "hard",
+    "type": "Spell"
+  },
+  {
+    "text": "Which spell can Reveal humans nearby?",
+    "answer": "Homenum Revelio",
+    "choices": [
+      "Homenum Revelio",
+      "Dissendium",
+      "Serpensortia",
+      "Glisseo"
+    ],
+    "level": "hard",
+    "type": "Spell"
+  },
+  {
+    "text": "Which spell can Start a fire?",
+    "answer": "Incendio",
+    "choices": [
+      "Incendio",
+      "Obliviate",
+      "Orchideous",
+      "Lumos"
+    ],
+    "level": "medium",
+    "type": "Spell"
+  },
+  {
+    "text": "Which spell can Glue opponent’s tongue to roof of mouth?",
+    "answer": "Langlock",
+    "choices": [
+      "Serpensortia",
+      "Obliviate",
+      "Langlock",
+      "Homenum Revelio"
+    ],
+    "level": "medium",
+    "type": "Spell"
+  },
+  {
+    "text": "Which spell can Hang victim upside down by feet?",
+    "answer": "Levicorpus",
+    "choices": [
+      "Reducto",
+      "Tarantallegra",
+      "Wingardium Leviosa",
+      "Levicorpus"
+    ],
+    "level": "easy",
+    "type": "Spell"
+  },
+  {
+    "text": "Which spell can Create light at wand tip?",
+    "answer": "Lumos",
+    "choices": [
+      "Lumos",
+      "Waddiwasi",
+      "Dissendium",
+      "Expecto Patronum"
+    ],
+    "level": "easy",
+    "type": "Spell"
+  },
+  {
+    "text": "Which spell can Create a Ball of Light that can brighten a room for a long period of time?",
+    "answer": "Lumos Maxima",
+    "choices": [
+      "Wingardium Leviosa",
+      "Lumos Maxima",
+      "Expecto Patronum",
+      "Muffliato"
+    ],
+    "level": "medium",
+    "type": "Spell"
+  },
+  {
+    "text": "Which spell can Prevent nearby people from listening to conversations?",
+    "answer": "Muffliato",
+    "choices": [
+      "Furnunculus",
+      "Protego",
+      "Expelliarmus",
+      "Muffliato"
+    ],
+    "level": "easy",
+    "type": "Spell"
+  },
+  {
+    "text": "Which spell can Counter to Lumos – turns off lights?",
+    "answer": "Nox",
+    "choices": [
+      "Levicorpus",
+      "Descendo",
+      "Nox",
+      "Waddiwasi"
+    ],
+    "level": "easy",
+    "type": "Spell"
+  },
+  {
+    "text": "Which spell can Repair Eyeglasses?",
+    "answer": "Oculus Reparo",
+    "choices": [
+      "Priori Incantatem",
+      "Oculus Reparo",
+      "Lumos Maxima",
+      "Piertotum Locomotor"
+    ],
+    "level": "medium",
+    "type": "Spell"
+  },
+  {
+    "text": "Which spell can Blindfold the victim?",
+    "answer": "Obscuro",
+    "choices": [
+      "Alohomora",
+      "Lumos",
+      "Incendio",
+      "Obscuro"
+    ],
+    "level": "medium",
+    "type": "Spell"
+  },
+  {
+    "text": "Which spell can Conjure a bunch of flowers?",
+    "answer": "Orchideous",
+    "choices": [
+      "Accio",
+      "Protego",
+      "Orchideous",
+      "Expecto Patronum"
+    ],
+    "level": "medium",
+    "type": "Spell"
+  },
+  {
+    "text": "Which spell can Animate statues and armor suits?",
+    "answer": "Piertotum Locomotor",
+    "choices": [
+      "Lumos Maxima",
+      "Ennervate",
+      "Piertotum Locomotor",
+      "Stupefy"
+    ],
+    "level": "hard",
+    "type": "Spell"
+  },
+  {
+    "text": "Which spell can Make the loser’s wand show all spells it recently cast in brother wands duel?",
+    "answer": "Priori Incantatem",
+    "choices": [
+      "Priori Incantatem",
+      "Aguamenti",
+      "Serpensortia",
+      "Avis"
+    ],
+    "level": "hard",
+    "type": "Spell"
+  },
+  {
+    "text": "Which spell can Blast solid objects aside?",
+    "answer": "Reducto",
+    "choices": [
+      "Homenum Revelio",
+      "Impedimenta",
+      "Reducto",
+      "Ennervate"
+    ],
+    "level": "medium",
+    "type": "Spell"
+  },
+  {
+    "text": "Which spell can Repair Things?",
+    "answer": "Reparo",
+    "choices": [
+      "Tarantallegra",
+      "Engorgio",
+      "Reparo",
+      "Aparecium"
+    ],
+    "level": "easy",
+    "type": "Spell"
+  },
+  {
+    "text": "Which spell can Reveal Hidden objects?",
+    "answer": "Revelio",
+    "choices": [
+      "Revelio",
+      "Babbling Curse",
+      "Ennervate",
+      "Imperio"
+    ],
+    "level": "medium",
+    "type": "Spell"
+  },
+  {
+    "text": "Which spell can Use this spell and laugh to defeat a boggart?",
+    "answer": "Ridiculous",
+    "choices": [
+      "Serpensortia",
+      "Stupefy",
+      "Ridiculous",
+      "Tarantallegra"
+    ],
+    "level": "medium",
+    "type": "Spell"
+  },
+  {
+    "text": "Which spell can Produce Snake?",
+    "answer": "Serpensortia",
+    "choices": [
+      "Serpensortia",
+      "Accio",
+      "Finite Incantatum",
+      "Engorgio"
+    ],
+    "level": "hard",
+    "type": "Spell"
+  },
+  {
+    "text": "Which spell can Silence victim?",
+    "answer": "Silencio",
+    "choices": [
+      "Diffindo",
+      "Expelliarmus",
+      "Incendio",
+      "Silencio"
+    ],
+    "level": "easy",
+    "type": "Spell"
+  },
+  {
+    "text": "Which spell can Knock out opponent?",
+    "answer": "Stupefy",
+    "choices": [
+      "Reducto",
+      "Silencio",
+      "Langlock",
+      "Stupefy"
+    ],
+    "level": "easy",
+    "type": "Spell"
+  },
+  {
+    "text": "Which spell can Switch objects?",
+    "answer": "Switching Spell",
+    "choices": [
+      "Switching Spell",
+      "Descendo",
+      "Crucio",
+      "Stupefy"
+    ],
+    "level": "easy",
+    "type": "Spell"
+  },
+  {
+    "text": "Which spell can Force opponent to dance?",
+    "answer": "Tarantallegra",
+    "choices": [
+      "Tarantallegra",
+      "Finite Incantatum",
+      "Lumos",
+      "Wingardium Leviosa"
+    ],
+    "level": "easy",
+    "type": "Spell"
+  },
+  {
+    "text": "Which spell can Unstick an object?",
+    "answer": "Waddiwasi",
+    "choices": [
+      "Anapneo",
+      "Expecto Patronum",
+      "Waddiwasi",
+      "Aguamenti"
+    ],
+    "level": "easy",
+    "type": "Spell"
+  }
+]

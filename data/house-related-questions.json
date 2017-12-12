@@ -1,0 +1,41 @@
+[
+  {
+    "text": "What are the house colors of ",
+    "id": 1,
+    "name": "color",
+    "level": "easy",
+    "answer": {
+      "Gryffindor": "Scarlet and gold",
+      "Hufflepuff":"Yellow and black",
+      "Ravenclaw": "Blue and bronze",
+      "Slytherin": "Green and silver"
+    },
+    "choices": ["Scarlet and gold","Yellow and black","Blue and bronze","Green and silver"]
+  },
+  {
+    "text": "What are the house Animal of ",
+    "id": 1,
+    "name": "animal",
+    "level": "easy",
+    "answer": {
+      "Gryffindor": "Lion",
+      "Hufflepuff":"Badger",
+      "Ravenclaw": "Eagle",
+      "Slytherin": "Snake"
+    },
+    "choices": ["Lion","Badger","Eagle","Snake"]
+  },
+  {
+    "text": "What are the house ghost of   ",
+    "id": 1,
+    "name": "animal",
+    "level": "easy",
+    "answer": {
+      "Gryffindor": "Nearly Headless Nick",
+      "Hufflepuff":"Fat Friar",
+      "Ravenclaw": "Grey Lady",
+      "Slytherin": "Bloody Baron"
+    },
+    "choices": ["Nearly Headless Nick","Fat Friar","Grey Lady","Bloody Baron"]
+  }
+]

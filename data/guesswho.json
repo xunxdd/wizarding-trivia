@@ -1,0 +1,159 @@
+[
+  {
+    "text": "I am a boy who was sorted into Hufflepuff. I am a  muggle born and I got petrified when the chamber of secrets was opened. I used to think Harry Potter opened the chamber. Who am I?",
+    "id": 1,
+    "level": "easy",
+    "answer": "Justin Finch- Fletchley",
+    "explanation": "Fenrir Greyback likes to bite people for fun and turn them into werewolves. He bit Remus Lupin.",
+    "choices": ["Cedric Diggory","Collin Creevey","Justin Finch- Fletchley","Ronald Weasley"]
+  },
+  {
+    "text": "I work for You-know-who. I am a werewolf. Who am I?",
+    "id": 2,
+    "level": "easy",
+    "answer": "Fenrir Greyback",
+    "explanation": "Ginny Weasley was possessed by Voldemort. She was forced to open the chamber of secrets",
+    "choices": ["Sirius Black","Severus Snape","Fenrir Greyback","Remus Lupin"]
+  },
+  {
+    "text": "I was possessed by You-know-who in the second book, \"Harry Potter and the Chamber of Secrets\". I have flaming red hair. Who am I?",
+    "id": 3,
+    "level": "easy",
+    "answer": "Ginny Weasley",
+    "explanation": "Cho Chang is a pretty girl that Harry used to fancy.",
+    "choices": ["Harry Potter","Ronald Weasley","Ginny Weasley","Percy Weasley"]
+  },
+  {
+    "text": "I used to be Cedric Diggory's girlfriend. Then I was asked out by Roger Davies but I turned him down. Then I dated Harry. We broke up. Who am I?",
+    "id": 4,
+    "level": "easy",
+    "answer": "Cho Chang",
+    "explanation": "Luna Lovegood, nicknamed Loony Lovegood, used to be a member of the D.A club and is a close friend of Harry's.",
+    "choices": ["Cho Chang","Hermione Granger","Ginny Weasley","Parvati Patil"]
+  },
+  {
+    "text": "I was asked by Harry to go to Slughorn's party. Who am I?",
+    "id": 5,
+    "level": "easy",
+    "answer": "Luna Lovegood",
+    "explanation": "Dumbledore was the headmaster of the school in books 1-6. Then Snape became the headmaster in the seventh book.",
+    "choices": ["Parvati Patil", "Luna Lovegood", "Cho Chang","Ginny Weasley"]
+  },
+  {
+    "text": "I was the headmaster of Hogwarts in the seventh book, \"Harry Potter and the Deathly Hallows\". Who am I?",
+    "id": 6,
+    "level": "easy",
+    "answer": "Severus Snape",
+    "explanation": "Viktor Krum plays quidditch for Bulgaria. He also fancies Hermione.",
+    "choices": ["Harry Potter","Albus Dumbledore","Severus Snape","Voldemort"]
+  },
+  {
+    "text": "I was one of the champions for the Triwizard tournament. I am also an international quidditch player. Who am I?",
+    "id": 7,
+    "level": "easy",
+    "answer": "Viktor Krum",
+    "explanation": "Dolores Umbridge works for the Ministry of Magic. She looks like a toad.",
+    "choices": ["Viktor Krum", "Cedric Diggory", "Fleur Delacour", "Harry Potter"]
+  },
+  {
+    "text": "I was the defense against the dark arts teacher for Hogwarts in the fifth book, \"Harry Potter and the Order of the Phoenix\". Who am I?",
+    "id": 8,
+    "level": "easy",
+    "answer": "Dolores Umbridge",
+    "explanation": "A dementor makes you feel like you will never be happy again. They are the guards of Azkaban, witch/wizard prison.",
+    "choices": ["Mad-eye Moody","Dolores Umbridge","Gilderoy Lockhart", "Remus Lupin"]
+  },
+  {
+    "text": "I like sucking the happiness out of people. What creature am I?",
+    "id": 9,
+    "level": "easy",
+    "answer": "A dementor",
+    "explanation": "The sorcerer's stone makes you immortal. It was destroyed, and Nicolas Flamel died.",
+    "choices": ["A werewolf","A dementor", "A boggart", "A dragon"]
+  },
+  {
+    "text": "I am the maker of the Philosopher's stone. Voldemort tried to steal it from me in the first book, \"Harry Potter and the Philosopher's Stone\", but failed.",
+    "id": 10,
+    "level": "easy",
+    "answer": "Nicolas Flamel",
+    "choices": ["Tom Riddle","Albus Dumbledore","Nicolas Flamel","Harry Potter"]
+  },
+  {
+    "text": "I was in Gryffindor.   I ran away from home at 16.   I was murdered in the department of Mysteries.   My nickname is Padfoot. Who am I? ",
+    "answer": "",
+    "level": "easy",
+    "choices": ["Remus Lupin", "Sirius Black", "James Potter", "Bellatrix  Lestrange"]
+  },
+  {
+    "text": "I attended Durmstrang school.  I  was named one of the darkest wizards of all time.  I was defeated by my best friend in 1945.  It was my dream to have wizards rule over muggles. Who am I",
+    "level": "hard",
+    "answer": "Gellert Grindelwald",
+    "choices": ["Gellert Grindelwald","Tom Riddle","Ignotus Peverell","Olivander"]
+  },
+  {
+    "text": "I am an only child. My mother and father died  in the Battle Of Hogwarts.  My parents were in the Order Of the Phoneix.  Harry Potter is my godfather. Who am I?",
+    "answer": "Ted Lupin",
+    "level": "easy",
+    "choices": [ "Fred Weasley", "Hugo Weasley","Ted Lupin", "Lily Granger"]
+  },
+  {
+    "text": "I was born on on July 31st. I dated Cho Chang.   Who am I?",
+    "answer": "Harry Potter",
+    "level": "Easy",
+    "choices": ["Cedric Diggory", "Harry Potter", "Dean Thomas", "Viktor Krum"]
+  },
+  {
+    "text": "I am in Hufflepuff. I was in Dumbledores Army.  My Uncle was killed by a death eater.   Who am I?",
+    "answer": "Susan Bones",
+    "level": "hard",
+    "choices": [ "Cedric Diggory","Susan Bones", "Hannah Abbot", "Professor Sprout"]
+  },
+  {
+    "text": "I am a magical and proud creature.  I lived in Hogwarts.  Hagrid loved me but others found me intimidating.   Who am I?",
+    "level": "easy",
+    "answer": "Buckbeak",
+    "choices": ["Buckbeak","Fluffy","Aragog","Dobby"]
+  },
+  {
+    "text": "I was in Gryffindor.  I dated a Ravenclaw  prefect.  I worked in the Ministry of Magic.   Who am I?",
+    "level": "medium",
+    "answer": "Percy Weasley",
+    "choices": ["Cornelius Fudge","Percy Weasley","Oliver Wood","Dean Thomas"]
+  },
+  {
+    "text": "I am a professor at Hogwarts School Of Withchcraft And Wizardry.  I teach History Of Magic.  I died in Hogwarts.   Who am I?",
+    "answer": "Cuthbert Binns",
+    "level": "medium",
+    "choices": ["Severus Snape","Cuthbert Binns","Albus Dumbledore","Sir Nicholas"]
+  },
+  {
+    "text": "I am an only child.  My father was a muggle.  He married my mother while on a 'love potion'.  I am related to Harry Potter.   Who am I?",
+    "answer": "Tom Riddle",
+    "level": "easy",
+    "choices": ["Tom Riddle","James Potter","Sirius Black", "Neville Longbottom"]
+  },
+  {
+    "text": "I became a Death Eater in the sixth book.  I was attacked by Buckbeak in one of Hagrid’s classes.  Who am I?",
+    "level": "easy",
+    "answer": "Draco Malfoy",
+    "choices": ["Vincent Crabbe", "Gregory Goyle","Ernie Macmillan","Draco Malfoy"]
+  },
+  {
+    "text": "I was kicked out of Hogwarts in my third year.  I carry my wand in a pink umbrella.  Who am I?",
+    "level": "easy",
+    "answer": "Rubeus Hagrid",
+    "choices": ["Seamus Finnigan", "Horace Slughorn","Rubeus Hagrid","Pomona Sprout"]
+  },
+  {
+    "text": "My parents were tortured to insanity by Bellatrix Lestrange. I killed the snake Nagini.  Who am I?",
+    "answer": "Neville Longbottom",
+    "level": "easy",
+    "choices": ["Hannah Abbot","Neville Longbottom","Zacharias Smith","Katie Bell"]
+  },
+  {
+    "text": "I am a creature who fought Harry in his second year. My venom can destroy Horcruxes  Who am I?",
+    "answer": "Basilisk",
+    "level": "easy",
+    "choices": ["Basilisk","Threstrals","Dragons","Dementor"]
+  }
+]
