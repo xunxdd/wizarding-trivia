@@ -232,7 +232,7 @@ function goDifficult(res) {
   var categoryText = helper.getEmphasis(_.join(categories, ', '));
   var minPoints = getSessionObj('min-level-score', res);
   var applause = helper.getSound('cheers-boos/applause-md.mp3');
-  var introductoryText = applause + 'Congradulations! You are now entered into the battlefield zone of Harry Potter Challenge. ' +
+  var introductoryText = applause + 'Congradulations! You are now entered into the challenge zone of Harry Potter Challenge. ' +
     'In this session, you will be asked 2 question from each of the categories: ' + categoryText +
     ' Each question is worth 10 points.  ' +
     ` At the end of session if you have earned ${minPoints} points or more, you are allowed to move on to the Challenge zone; ` +

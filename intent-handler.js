@@ -53,6 +53,11 @@ function IntentHandler() {
       utterances: {},
       callFunc: goodBye
     },
+    startOverIntent = {
+      name: 'AMAZON.StartOverIntent',
+      utterances: {},
+      callFunc: handleStartOverIntent
+    },
     donotKnowIntent = {
       "utterances": {
         "utterances": ["{Don't Know| Not Sure | I do not know | I don\'t know}"]
@@ -62,14 +67,22 @@ function IntentHandler() {
     };
 
   function handleHelpIntent(req, res) {
-    handleRepeatIntent(req, res);
+    var currentSessionName = helper.getSessionObj('currentSessionName', res);
+    var helpText = 'The game has 3 difficulty levels: beginner zone, battlefield, challege. Each level has a number of multiple choice question. Please respond with 1, 2, 3, or 4.';
+    if (currentSessionName === 'pre-sorting-hat') {
+        helpText = "Before entering the beginner zone of the game, you will need to pick your house and ask one house specific question. To ask for sorting hat, please say Sorting Hat. "
+    }
+    res.say(helpText).reprompt(helpText).shouldEndSession(false);
   }
 
   function handleStartOverIntent(req, res) {
     handleLaunchRequest(req, res);
   }
 
-  function handleRepeatIntent(req, res) {}
+  function handleRepeatIntent(req, res) {
+    var repeatText = helper.getSessionObj('repeatText', res);
+    res.say(repeatText).reprompt(repeatText).shouldEndSession(false);
+  }
 
   function handleDontKnowIntent(req, res) {
     handleResultGoToNext(req, res, 'donotknow');
@@ -77,6 +90,7 @@ function IntentHandler() {
 
   function handleYesIntent(req, res) {
     var texts = manager.onYesIntent(res);
+    helper.setSessionObj('repeatText', texts.sayText, res);
     res.say(texts.sayText).reprompt(texts.repromptText).shouldEndSession(false);
   }
 
@@ -86,8 +100,8 @@ function IntentHandler() {
 
   function handleSortingAnswerIntent(req, res) {
     console.log('current session is ', helper.getSessionObj('currentSessionName', res), 'handleSortingAnswerIntent');
-
     var texts = manager.startSortingQuiz(res);
+    helper.setSessionObj('repeatText', texts.sayText, res);
     res.say(texts.sayText).reprompt(texts.repromptText).shouldEndSession(false);
   }
 
@@ -97,6 +111,7 @@ function IntentHandler() {
     console.log('Please please log this ', answer)
     if (helper.isBadAnswer(answer)) {
       var sayText ='Sorry you answered ' + `<say-as interpret-as="spell-out">${answer}</say-as>` + '. Please simply answer ' + helper.getEmphasis('1 , 2, 3  or 4');
+      helper.setSessionObj('repeatText', sayText, res);
       res.say(sayText).reprompt(sayText).shouldEndSession(false);
       return;
     }
@@ -106,12 +121,14 @@ function IntentHandler() {
     if (texts.gameOver) {
       res.say(texts.sayText).shouldEndSession(true);
     } else {
+      helper.setSessionObj('repeatText', texts.sayText, res);
       res.say(texts.sayText).reprompt(texts.repromptText).shouldEndSession(false);
     }
   }
 
   function handleLaunchRequest(req, res) {
     var texts = manager.getLaunchText(res);
+    helper.setSessionObj('repeatText', texts.sayText, res);
     res.say(texts.sayText).reprompt(texts.repromptText).shouldEndSession(false);
   }
 
@@ -121,11 +138,13 @@ function IntentHandler() {
   }
 
   return {
-    //testMp3: testMp3,
     handleLaunchRequest: handleLaunchRequest,
     yesIntent: yesIntent,
     noIntent: noIntent,
     stopIntent: stopIntent,
+    startOverIntent: startOverIntent,
+    helpIntent: helpIntent,
+    repeatIntent: repeatIntent,
     cancelIntent: cancelIntent,
     sortingHatIntent: sortingHatIntent,
     multiChoiceIntent: multiChoiceIntent

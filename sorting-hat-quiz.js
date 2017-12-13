@@ -7,7 +7,7 @@ const ABCD = '1234';
 const HOUSES = ['Hufflepuff', 'Slytherin', 'Ravenclaw', 'Gryffindor'];
 
 function houseChoice() {
-  var sortingHat = 'Please just say 1, 2, 3, or 4. Or If you are not sure, please say "Sorting Hat".';
+  var sortingHat = 'Please just say 1, 2, 3, or 4. If you are not sure, please say "Sorting Hat".';
   var houses = ['1. Gryffindor', '2. Hufflepuff', '3. Ravenclaw', '4. Slytherin'];
   return ' Which house do you think you rightfully belong to? Please choose from the following: ' +
     houses.join(', ') + ". " + sortingHat;
@@ -49,7 +49,7 @@ function getSortingResponse(ans, session) {
     setSession('houseQuestion', houseQuestion, session);
     setSession('currentSessionName', 'house-confirm', session);
     setSession('housePicked', selectedChoice, session);
-    var questionText = houseQuestion.text + selectedChoice + '? ' + 'Is it: ' + helper.getChoicesText(houseQuestion) + '? Please answer only 1, 2, 3 or 4. ';
+    var questionText = houseQuestion.text + selectedChoice + '? ' + 'Is it: ' + helper.getChoicesText(houseQuestion) + '? Please answer 1, 2, 3, or 4. ';
     repromptText = sayText + questionText;
   }
 

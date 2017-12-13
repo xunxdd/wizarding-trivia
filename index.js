@@ -11,7 +11,10 @@ var intents = [
   IntentHandler.yesIntent,
   IntentHandler.noIntent,
   IntentHandler.stopIntent,
-  IntentHandler.cancelIntent
+  IntentHandler.cancelIntent,
+  IntentHandler.helpIntent,
+  IntentHandler.repeatIntent,
+  IntentHandler.startOverIntent
 ];
 
 try {
